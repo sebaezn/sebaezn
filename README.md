@@ -20,6 +20,3 @@
 <a href="screenshots/movie5.png" target="_blank">
   <img src="screenshots/movie5.png" width="200" />
 </a>
-<a href="screenshots/movie6.png" target="_blank">
-  <img src="screenshots/movie6.png" width="200" />
-</a>
