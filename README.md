@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**sebaezn/sebaezn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>🎬 My First Website: Movie Me</h2>
 
-Here are some ideas to get you started:
+<p>This was my first university project — a website for exploring movies, getting news, and pulling data via APIs. All frontend and API integration was done from scratch. I'm really proud of this!</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Trigger image to open full view -->
+<a href="screenshots/movie1.png" target="_blank">
+  <img src="screenshots/movie1.png" width="200" />
+</a>
+<a href="screenshots/movie2.png" target="_blank">
+  <img src="screenshots/movie2.png" width="200" />
+</a>
+<a href="screenshots/movie3.png" target="_blank">
+  <img src="screenshots/movie3.png" width="200" />
+</a>
